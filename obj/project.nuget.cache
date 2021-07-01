@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pmSvCdBdL354W3j35t/b7Sze0Roxmlm1zOAo4U+CIyYwljGCRd2jkrbihTCN3hNBR0I2XwiCvWsl+3Zv2ogoCA==",
+  "success": true,
+  "projectFilePath": "C:\\Applications\\gmailtest\\gmailtest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pkoconn\\.nuget\\packages\\google.apis\\1.52.0\\google.apis.1.52.0.nupkg.sha512",
+    "C:\\Users\\pkoconn\\.nuget\\packages\\google.apis.auth\\1.52.0\\google.apis.auth.1.52.0.nupkg.sha512",
+    "C:\\Users\\pkoconn\\.nuget\\packages\\google.apis.core\\1.52.0\\google.apis.core.1.52.0.nupkg.sha512",
+    "C:\\Users\\pkoconn\\.nuget\\packages\\google.apis.gmail.v1\\1.52.0.2356\\google.apis.gmail.v1.1.52.0.2356.nupkg.sha512",
+    "C:\\Users\\pkoconn\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
